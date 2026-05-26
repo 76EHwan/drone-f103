@@ -1,0 +1,4 @@
+../Core/Src/motor.c:20:6:Motor_Start	1
+../Core/Src/motor.c:37:6:Motor_Stop	1
+../Core/Src/motor.c:51:6:Motor_Test	1
+../Core/Src/motor.c:71:6:Motor_IRQ	4
